@@ -2,7 +2,7 @@ name: Update Calendar
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Run every 6 hours
+    - cron: '0 * * * *' # Run every 6 hours
   workflow_dispatch:      # Allows manual trigger button
 
 permissions:

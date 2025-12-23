@@ -14003,4 +14003,12 @@ DTEND:20251221T095512Z
 SUMMARY:Read Apocalypse Bringer Mynoghra (Ch. 1-2)
 DESCRIPTION:Read 2 chapters. Duration: 8 mins.
 END:VEVENT
+BEGIN:VEVENT
+UID:anilist-999944154@anilist.co
+DTSTAMP:20251223T095545Z
+DTSTART:20251223T095545Z
+DTEND:20251223T095945Z
+SUMMARY:Read Koushaku Chakunan Koushoku Monogatari: Isekai Harem Eiyuu Senki Ch. 1
+DESCRIPTION:Read 1 chapters. Duration: 4 mins.
+END:VEVENT
 END:VCALENDAR

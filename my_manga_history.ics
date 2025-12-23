@@ -14027,4 +14027,12 @@ DTEND:20251223T130856Z
 SUMMARY:Read Tensei Kizoku no Bannou Kaitaku: [Kakudai & Shukushou] Skill wo Tsukatteitara Saikyou Ryouchi ni Narimashita Ch. 1
 DESCRIPTION:Read 1 chapters. Duration: 4 mins.
 END:VEVENT
+BEGIN:VEVENT
+UID:anilist-1000208906@anilist.co
+DTSTAMP:20251223T230717Z
+DTSTART:20251223T230717Z
+DTEND:20251224T005917Z
+SUMMARY:Read The Messiah and His Followers (Ch. 1-28)
+DESCRIPTION:Read 28 chapters. Duration: 112 mins.
+END:VEVENT
 END:VCALENDAR

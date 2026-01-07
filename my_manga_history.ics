@@ -14155,4 +14155,12 @@ DTEND:20260107T144003Z
 SUMMARY:Read Oukoku e Tsuzuku Michi: Dorei Kenshi no Nariagari Eiyuutan Ch. 25
 DESCRIPTION:Read 1 chapters. Duration: 4 mins.
 END:VEVENT
+BEGIN:VEVENT
+UID:anilist-1007543357@anilist.co
+DTSTAMP:20260107T144405Z
+DTSTART:20260107T144405Z
+DTEND:20260107T144805Z
+SUMMARY:Read Peddler in Another World: I Can Go Back to My World Whenever I Want Ch. 16
+DESCRIPTION:Read 1 chapters. Duration: 4 mins.
+END:VEVENT
 END:VCALENDAR

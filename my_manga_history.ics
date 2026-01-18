@@ -14203,4 +14203,12 @@ DTEND:20260115T005317Z
 SUMMARY:Read Mushoku Tensei: Jobless Reincarnation (Ch. 1-50)
 DESCRIPTION:Read 50 chapters. Duration: 200 mins.
 END:VEVENT
+BEGIN:VEVENT
+UID:anilist-1013320318@anilist.co
+DTSTAMP:20260118T082830Z
+DTSTART:20260118T082830Z
+DTEND:20260118T084430Z
+SUMMARY:Read Noble Reincarnation ~Born Blessed, So I’ll Obtain Ultimate Power~ (Ch. 6-9)
+DESCRIPTION:Read 4 chapters. Duration: 16 mins.
+END:VEVENT
 END:VCALENDAR

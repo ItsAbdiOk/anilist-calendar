@@ -14331,4 +14331,12 @@ DTEND:20260202T164824Z
 SUMMARY:Read Hero-ga Jipchakaneun Akdangi Doeeotda (Ch. 1-6)
 DESCRIPTION:Read 6 chapters. Duration: 24 mins.
 END:VEVENT
+BEGIN:VEVENT
+UID:anilist-1022494555@anilist.co
+DTSTAMP:20260204T205812Z
+DTSTART:20260204T205812Z
+DTEND:20260204T210612Z
+SUMMARY:Read Hero-ga Jipchakaneun Akdangi Doeeotda (Ch. 7-8)
+DESCRIPTION:Read 2 chapters. Duration: 8 mins.
+END:VEVENT
 END:VCALENDAR
